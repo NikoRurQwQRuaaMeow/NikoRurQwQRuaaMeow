@@ -18,8 +18,8 @@
 
 ### Phone and Pad
 
-![Xiaomi 10 Pro](https://img.shields.io/badge/Xiaomi%2015%20Ultra-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![Xiaomi Pad 5](https://img.shields.io/badge/Xiaomi%20Pad%206S%20Pro-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Xiaomi 10 Pro](https://img.shields.io/badge/Xiaomi%2010%20Pro-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Xiaomi Pad 5](https://img.shields.io/badge/Xiaomi%20Pad%205%20-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![WSA](https://img.shields.io/badge/Windows%20Subsystem%20For%20Android%2013-3DDC84?style=flat-square&logo=Android&logoColor=ffffff)
 
 - 👋 Hi, I’m @NikoRurQwQRuaaMeow
