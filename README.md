@@ -10,7 +10,7 @@
 
 # 💻 Environment
 
-![Windows](https://img.shields.io/badge/Windows%2011%20Pro%2024H2-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
+![Windows](https://img.shields.io/badge/Windows%2011%20Pro%20Worksation%20InsidePreview-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
 ![WSL2](https://img.shields.io/badge/WSL2%20Ubuntu%2024%2e10%20LTS-DD4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![Android Vanilla Ice Cream 15](https://img.shields.io/badge/Android%20Vanilla%20Ice%20Cream%2015-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
 
